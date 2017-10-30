@@ -3,8 +3,10 @@ layout: default
 modal-id: 2
 date: 2017-10-30
 img: course2.png
-icon: course2_icon.png
-launch: quantitative-analysis
+icon: construction.png
+launch: subscribe
+button: Subscribe
+buttonpic: fa fa-envelope-o
 alt: image-alt
 project-date: October 2017
 client: Start Bootstrap
