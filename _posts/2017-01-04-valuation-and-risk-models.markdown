@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2017-01-01
+date: 2017-01-04
 img: course4.png
 icon: course4_icon.png
 launch: valuation-and-risk-models
