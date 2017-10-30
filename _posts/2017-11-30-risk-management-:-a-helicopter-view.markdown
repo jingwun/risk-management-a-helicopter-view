@@ -2,9 +2,9 @@
 layout: default
 modal-id: 1
 date: 2017-11-30
-img: course1.png
-icon: course1_icon.png
-launch: foundations-of-risk-management
+img: course11.png
+icon: course11_icon.png
+launch: risk-management-a-helicopter-view
 alt: image-alt
 project-date: November 2017
 client: Start Bootstrap
