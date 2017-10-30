@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2017-11-30
-img: course11.png
-icon: course11_icon.png
+img: course111.png
+icon: course111_icon.png
 launch: risk-management-a-helicopter-view
 button: Launch
 buttonpic: fa fa-rocket
