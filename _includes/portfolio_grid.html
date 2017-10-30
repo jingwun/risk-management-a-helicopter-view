@@ -19,11 +19,8 @@
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
+                        <li class="cardmenu-item"><a href="{{ post.url }}">{{ post.date }}</a></li>
                     </div>
-                {% endfor %}
-                {% assign sorted_pages = (site.posts | sort: 'date') %}
-                {% for page in sorted_pages %}
-                    <li class="cardmenu-item"><a href="{{ page.url }}">{{ page.date }}</a></li>
                 {% endfor %}
             </div>
         </div>
