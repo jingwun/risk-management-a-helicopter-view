@@ -5,6 +5,8 @@ date: 2017-11-30
 img: course11.png
 icon: course11_icon.png
 launch: risk-management-a-helicopter-view
+button: Launch
+buttonpic: fa fa-rocket
 alt: image-alt
 project-date: November 2017
 client: Start Bootstrap
