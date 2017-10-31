@@ -15,3 +15,4 @@ description: Oops. Our volunteers are still working to construct this course. Pl
 
 
 ---
+Oops. Our volunteers are still working to construct this course. Please visit again in the near future, or subscribe to our mailing list below to stay up to date. We appreciate your understanding and support!
