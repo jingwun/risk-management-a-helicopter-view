@@ -21,4 +21,4 @@ description: The development of our paradigms for containing risk has emphasized
   <footer><cite title="Alan Greenspan">Alan Greenspan</cite></footer>
 </blockquote>
 
-In a world that is increasingly driven by risk management concepts and technologies, we need to make sure we are at least as literate in the language of risk as we are in the language of reward...
+In a world that is increasingly driven by risk management concepts and technologies, we need to make sure we are at least as literate in the language of risk as we are in the language of reward...let's get started. 
